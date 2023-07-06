@@ -1,0 +1,28 @@
+h2{
+    color:crimson;
+    font-size: 48px;
+    font-family: tahoma;
+    font-weight: 800;
+}
+.name{
+    color:aqua;
+    font-size: 32px;
+    font-weight: bolder;
+    background-color: slategray;
+    border: 10px solid tomato;
+}
+#button{
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+}
+#medical{
+    font-size: 32px;
+    font-weight: bolder;
+    color:crimson;
+}
+#image{
+    height: 225px;
+    width: 150px;
+    margin-top: 10px;
+}
