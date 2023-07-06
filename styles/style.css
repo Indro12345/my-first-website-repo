@@ -10,6 +10,9 @@ h2{
     font-weight: bolder;
     background-color: slategray;
     border: 10px solid tomato;
+    border-radius: 5px;
+    border-style: groove;
+    padding: 5px;
 }
 #button{
     text-align: center;
@@ -26,3 +29,81 @@ h2{
     width: 150px;
     margin-top: 10px;
 }
+.two{
+    background-color: darkred;
+    color: darkcyan;
+    font-size: 24px;
+    font-family: tahoma;
+    border: 10px solid teal;
+    border-radius: 5px;
+    border-style: groove;
+    padding: 5px;
+}
+#down{
+    height: 225px;
+    width: 150px;
+}
+#click{
+    font-weight: bolder;
+    color:darkslategray
+}
+#here{
+    font-weight: bolder;
+    color:dimgrey;
+}
+#form{
+    color:brown;
+    font-size: 32px;
+    font-family: tahoma;
+    font-weight: bolder;
+}
+input[type=text]{
+    width: auto;
+    padding: 3px;
+    margin: 2px;
+    color:green;
+    text-decoration: underline;
+    font-size: 18px;
+    font-family: tahoma;
+    font-weight: 600;
+    
+}
+input[type=password]{
+    width: auto;
+    padding: 3px;
+    margin: 2px;
+    color:green;
+    text-decoration: underline;
+    font-size: 18px;
+    font-family: tahoma;
+    font-weight: 600;
+    
+}
+input[type=email]{
+    width: auto;
+    padding: 3px;
+    margin: 2px;
+    color:green;
+    text-decoration: underline;
+    font-size: 18px;
+    font-family: tahoma;
+    font-weight: 600;
+    
+}
+h4{
+    color:crimson;
+    font-size: 32px;
+    font-family: tahoma;
+    font-weight: 800;
+}  
+#ct{
+    color:brown;
+    text-decoration: underline;
+    font-size: 24px;
+    font-family: tahoma;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+    
+    
